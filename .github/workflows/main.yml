@@ -1,4 +1,4 @@
-name: Windows CI/CD Pipeline
+name: .NET CI/CD Pipeline
 
 on:
   push:
